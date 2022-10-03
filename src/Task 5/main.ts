@@ -268,4 +268,3 @@ type Person = {
   {
   
   }
-  console.groupEnd();
